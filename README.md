@@ -18,7 +18,7 @@ Além disso, é necessário ter o Microsoft Outlook instalado para que seja poss
 1. Clone este repositório em sua máquina local.
 2. Certifique-se de que as bibliotecas pandas, pywin32 (Windows) ou pyobjc (macOS) estejam instaladas.
 3. Abra o arquivo "Vendas.xlsx" e verifique se as informações estão corretas.
-4. Execute o arquivo "analise_de_vendas.py". 
+4. Execute os arquivos "analise.*macbook.py ou analise.windows.py*". 
 5. Após a execução do código, um e-mail será enviado para o destinatário especificado no código com um relatório dos resultados.
 
 ## Arquivos
