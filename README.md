@@ -27,7 +27,7 @@ Além disso, é necessário ter o Microsoft Outlook instalado para que seja poss
 
 ## Autor
 
-O código foi desenvolvido por (seu nome aqui). 
+https://github.com/thiarly
 
 ## Conclusão
 
