@@ -23,7 +23,7 @@ Além disso, é necessário ter o Microsoft Outlook instalado para que seja poss
 ## Arquivos
 
 - Vendas.xlsx: arquivo de dados utilizado na análise.
-- analise_de_vendas.py: código para análise dos dados e envio do e-mail com o relatório.
+- analise.py: código para análise dos dados e envio do e-mail com o relatório.
 
 ## Autor
 
