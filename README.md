@@ -1,4 +1,4 @@
-# Analise-de-Vendas
+# Analise-de-Vendas :bar_chart:
 
 # Análise de Vendas por Loja
 
